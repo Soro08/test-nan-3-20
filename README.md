@@ -21,5 +21,8 @@ preview: https://bootsnipp.com/snippets/nNg98
 
 ## Front-end
 
+App news decide d'avoir son interface d'administration personnalisé. Pour celà, il fait appel à l'équipe front-end 3.20 de l'école NaN.
 
+Votre trvaille est de reproduire le modèle de template en y ajoutant les pages manquantes.
 
+Trouvez l'image dans les fichier github web.png
