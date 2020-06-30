@@ -106,3 +106,24 @@ Un menu présentant les fonctionnalités suivantes :
 
 8. Quitter
 
+## Multimedia
+
+L'entreprise K-Digit dans le domaine du numérique vous emplois comme infographe. 
+
+À votre arrivée, on vous demande les service suivant :
+
+1. Le logo de l'entreprise
+
+2. Réalisation d'une carte de visite
+
+3. Réalisation d'une carte de membre
+
+4. Afin de faire la promotion de l'entreprise, le CM vous demande de lui proposer deux flyer pour la promotion de l'entreprise.
+
+Noter que les secteurs d'activité de l'entreprise sont:
+
+- Création de site et application web
+
+- Création d'application mobile
+
+- Formation en Développement web et mobile...
