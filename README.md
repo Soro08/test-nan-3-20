@@ -41,3 +41,68 @@ Il vous ai demandé de proposer une application mobile.
 Lien du site web: https://babiflix.ci/
 
 Créer un compte afin de mieux visualiser le site.
+
+
+## Data Analyst
+
+Le ministère de la Santé et de l'hygiène public a besoin de l'aide des étudiants data analyst de NaN pour comprendre le comportement du virus dans son pays afin de 
+
+prendre des mesures.
+
+Sur le lien suivant, vous trouverez les données du covid 19 depuis son apparition en Côte d'Ivoire.
+
+Lien ==> https://api.covid19api.com/dayone/country/cote-divoire
+
+Il est de vôtre devoir de répondre aux questions suivantes :
+
+1. Combien de cas la CI a enregistré jusqu'à ce jour ?
+
+2. Qu'elle est le taux de contamination en CI
+
+3. Qu'elle est le taux de décès en CI
+
+4. Qu'elle est le taux de guérisons en CI
+
+5. Déterminer le taux de taux de contamination journalier
+
+6. En approfondissant vos recherches sur la France, https://api.covid19api.com/dayone/country/france selon vous quand la CI atteindra son PIC .
+
+7. Avec vos prédictions, quel sera le nombre de cas avant fin juillet 2020 ?
+
+
+## C# ET Golang
+
+Soit à développer une application pour la gestion d’un stock.
+
+Un article est caractérisé par son numéro de référence, son nom, son prix de vente et une quantité en stock.
+
+Le stock est représenté par une collection d’articles.
+
+Travail à faire:
+Créer la classe article contenant les éléments suivants :
+
+Les attributs/propriétés.
+Un constructeur d’initialisation.
+La méthode ToString().
+Dans la classe Program créer :
+
+Le stock sous forme d'une collection d’articles de votre choix.
+
+Un menu présentant les fonctionnalités suivantes :
+
+1. Rechercher un article par référence.
+
+2. Ajouter un article au stock en vérifiant l’unicité de la référence.
+
+3. Supprimer un article par référence.
+
+4. Modifier un article par référence.
+
+5. Rechercher un article par nom.
+
+6. Rechercher un article par intervalle de prix de vente.
+
+7. Afficher tous les articles.
+
+8. Quitter
+
